@@ -1,4 +1,4 @@
-# OlÃ¡, eu sou Rubenilson JÃºnior
+# OLA, eu sou Rubenilson Junior
 
 Estudante de AnÃ¡lise e Desenvolvimento de Sistemas e desenvolvedor em formaÃ§Ã£o, com experiÃªncia prÃ¡tica em suporte e infraestrutura de TI. Tenho interesse em desenvolvimento web e backend e estou construindo projetos para transformar meus estudos em soluÃ§Ãµes reais.
 
